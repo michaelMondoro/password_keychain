@@ -15,3 +15,5 @@ Finally, you will need to store the SHA256 hash of your master password in file 
 
 
 Once set up, you can just run `python3 keychain.py`
+
+![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)
